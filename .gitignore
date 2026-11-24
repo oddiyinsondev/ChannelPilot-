@@ -1,0 +1,22 @@
+# Muhit o'zgaruvchilari (Maxfiy tokenlar saqlanadi)
+.env
+
+# Python keshi
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ma'lumotlar bazasi
+*.db
+*.sqlite3
+
+# Virtual muhit
+venv/
+.venv/
+env/
+
+# IDE va muharrir fayllari
+.idea/
+.vscode/
+*.swp
+*.swo
